@@ -2,7 +2,7 @@
 
 ## 📜 Citation
 
-If you find **Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions** useful in your research, please consider citing our work! 🚀
+If you find **MallowsPO** useful in your research, please consider citing our work! 🚀
 
 ### BibTeX
 ```bibtex
